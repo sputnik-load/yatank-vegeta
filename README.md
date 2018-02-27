@@ -1,2 +1,2 @@
-# yatank-vegeta
-Yandex.Tank plugin for reading results from Vegeta (offline only)
+Vegeta - плагин для яндекс танка, который читает файл с результатами Vegeta и отправляет их в Grafana.
+
